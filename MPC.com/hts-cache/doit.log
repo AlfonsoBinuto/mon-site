@@ -1,0 +1,8 @@
+https://designmattersmedia.com/ -O "/Users/alfonso/websites/https://designmattersmedia.com/" -P 1:8080 -%v -r3
+File generated automatically on Mon, 23 Mar 2026 09:19:22, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

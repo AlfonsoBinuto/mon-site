@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Mon, 23 Mar 2026 09:19:22 at https://designmattersmedia.com/
+(winhttrack https://designmattersmedia.com/ -O "/Users/alfonso/websites/https://designmattersmedia.com/" -P 1:8080 -%v -r3 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:19:40	Error: 	"Not Found" (404) at link https://designmattersmedia.com/&apos;https:/designmattersmedia.com/wp-content/uploads/2025/01/about-bg@2x.png&apos (from https://designmattersmedia.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 19 links scanned, 17 files written (1034333 bytes overall) [152898 bytes received at 8494 bytes/sec], 1143612 bytes transferred using HTTP compression in 19 files, ratio 12%, 5.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
